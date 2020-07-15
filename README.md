@@ -61,7 +61,7 @@ Directions:\
 5: left\
 Board coordinates:
 <pre>
-      I 4 5 6 7 8 
+    I 4 5 6 7 8 
    H 3 4 5 6 7 8 
   G 2 3 4 5 6 7 8 
  F 1 2 3 4 5 6 7 8 
