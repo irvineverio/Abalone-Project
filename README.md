@@ -10,7 +10,7 @@ Click on archive and locate the zip file. Choose the folder with /Abalone, it sh
 Click Finish, the project should now be visible in the package explorer.
 The project requires JUnit 5 and JRE System Library java 11.
 
-######Starting a local game:
+### Starting a local game:
 Open the Abalone class from the package Abalone
 Run the class with Java compiler
 The console will ask to input between 2-4 players to play the game mode in
@@ -21,7 +21,7 @@ For the other input, it would initialize a human player to play the game
 Play the game
 After the game ends, an option to play again would be given for the user to input
 
-######Starting the server:
+### Starting the server:
 Open the AbaloneServer class from the Abalone Server package
 Run the class with Java compiler
 The console will ask to input a port number
@@ -29,7 +29,7 @@ Input an empty port number
 Wait for the clients to connect
 The game would be started once a lobby has been created and filled with a specific number of players
 
-######Connecting as a client:
+### Connecting as a client:
 Open the AbaloneClient class from the Abalone Client package
 Run the class with Java compiler
 The console will ask to input an IP address
@@ -48,7 +48,7 @@ Once the lobby is full, the game will start
 Play the game
 
 
-######Making moves:
+### Making moves:
 In local games, the player at the bottom starts and turns go clockwise. 
 In games on the server, the player at the top starts and turns go clockwise. 
 Moves should be in the format A0,C2,1 where A is the row, 0 is the column and 1 is the direction. 0 is top left and goes clockwise. 
@@ -71,5 +71,5 @@ E 0 1 2 3 4 5 6 7 8
     A 0 1 2 3 4 
 
 
-######Documentation:
+## Documentation:
 https://docs.google.com/document/d/1DUP6UV7ShwyCfPVU_gCsKjU6GIbiOyfq-DJcjgXQpkI/edit?usp=sharing
