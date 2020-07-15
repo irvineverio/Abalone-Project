@@ -60,6 +60,7 @@ Directions:\
 4: bottom left\
 5: left\
 Board coordinates:\
+<pre>
       I 4 5 6 7 8 \
    H 3 4 5 6 7 8 \
   G 2 3 4 5 6 7 8 \
@@ -69,7 +70,7 @@ E 0 1 2 3 4 5 6 7 8 \
   C 0 1 2 3 4 5 6 \
    B 0 1 2 3 4 5 \
     A 0 1 2 3 4 
-
+</pre>
 
 ## Documentation:
 https://docs.google.com/document/d/1DUP6UV7ShwyCfPVU_gCsKjU6GIbiOyfq-DJcjgXQpkI/edit?usp=sharing
