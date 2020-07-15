@@ -59,16 +59,16 @@ Directions:\
 3: bottom right\
 4: bottom left\
 5: left\
-Board coordinates:\
+Board coordinates:
 <pre>
-      I 4 5 6 7 8 \
-   H 3 4 5 6 7 8 \
-  G 2 3 4 5 6 7 8 \
- F 1 2 3 4 5 6 7 8 \
-E 0 1 2 3 4 5 6 7 8 \
- D 0 1 2 3 4 5 6 7 \
-  C 0 1 2 3 4 5 6 \
-   B 0 1 2 3 4 5 \
+      I 4 5 6 7 8 
+   H 3 4 5 6 7 8 
+  G 2 3 4 5 6 7 8 
+ F 1 2 3 4 5 6 7 8 
+E 0 1 2 3 4 5 6 7 8 
+ D 0 1 2 3 4 5 6 7 
+  C 0 1 2 3 4 5 6 
+   B 0 1 2 3 4 5 
     A 0 1 2 3 4 
 </pre>
 
